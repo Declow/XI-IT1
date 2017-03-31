@@ -1,0 +1,9 @@
+c:\users\ditlev\documents\visual studio 2017\Projects\CoreInternetDistj14\CoreInternetDistj14\bin\Debug\netcoreapp1.1\CoreInternetDistj14.deps.json
+c:\users\ditlev\documents\visual studio 2017\Projects\CoreInternetDistj14\CoreInternetDistj14\bin\Debug\netcoreapp1.1\CoreInternetDistj14.runtimeconfig.json
+c:\users\ditlev\documents\visual studio 2017\Projects\CoreInternetDistj14\CoreInternetDistj14\bin\Debug\netcoreapp1.1\CoreInternetDistj14.runtimeconfig.dev.json
+c:\users\ditlev\documents\visual studio 2017\Projects\CoreInternetDistj14\CoreInternetDistj14\bin\Debug\netcoreapp1.1\CoreInternetDistj14.dll
+c:\users\ditlev\documents\visual studio 2017\Projects\CoreInternetDistj14\CoreInternetDistj14\bin\Debug\netcoreapp1.1\CoreInternetDistj14.pdb
+c:\users\ditlev\documents\visual studio 2017\Projects\CoreInternetDistj14\CoreInternetDistj14\obj\Debug\netcoreapp1.1\CoreInternetDistj14.csprojResolveAssemblyReference.cache
+c:\users\ditlev\documents\visual studio 2017\Projects\CoreInternetDistj14\CoreInternetDistj14\obj\Debug\netcoreapp1.1\CoreInternetDistj14.AssemblyInfo.cs
+c:\users\ditlev\documents\visual studio 2017\Projects\CoreInternetDistj14\CoreInternetDistj14\obj\Debug\netcoreapp1.1\CoreInternetDistj14.dll
+c:\users\ditlev\documents\visual studio 2017\Projects\CoreInternetDistj14\CoreInternetDistj14\obj\Debug\netcoreapp1.1\CoreInternetDistj14.pdb
