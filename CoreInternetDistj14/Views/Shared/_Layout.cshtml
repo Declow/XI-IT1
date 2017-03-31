@@ -21,35 +21,24 @@
     @Html.Raw(JavaScriptSnippet.FullScript)
 </head>
 <body>
-   
-    <!-- Fixed navbar -->
-    <nav class="navbar navbar-default navbar-fixed-top">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="#">Project name</a>
-            </div>
-            <div id="navbar" class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
-                    <li class="active"><a href="#">Home</a></li>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#contact">Contact</a></li>
-                </ul>
-            </div><!--/.nav-collapse -->
+
+    <div class="content">
+        <div class="nav">
+            <ul class="nav-ul">
+                <li>@Html.ActionLink("Sign In", "Index") </li>
+                <li>@Html.ActionLink("Sign Up", "SignUp") </li>
+                <li>@Html.ActionLink("Gallery", "Gallery")</li>
+                <li>@Html.ActionLink("About Me", "AboutMe")</li>
+            </ul>
         </div>
-    </nav>
 
-
-
-    <div>
-        @RenderBody()
-        <hr />
+        <div class="body">
+            @RenderBody()
+        </div>
     </div>
+
+
+
 
     <footer class="footer">
         <div class="container">
