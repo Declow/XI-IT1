@@ -1,13 +1,10 @@
 ﻿.content {
     position:relative;
-    height:500px;
 }
 
 
-
-
 .nav {
-    position:absolute;
+    position:fixed;
     top:70px;
     left:0;
 }
@@ -19,10 +16,19 @@
 .body {
     position:absolute;
     top:50px;
-    right:0;
+    left:150px;
 }
 
 .footer {
     position:absolute;
     bottom:0px;
+}
+
+
+/*Gallery*/
+
+.large-img {
+   float:left;
+   width:25%;
+   height:25%;
 }
