@@ -1,8 +1,6 @@
-﻿.content {
-    position:relative;
-}
+﻿
 
-
+/*Navigation*/
 .nav {
     position:fixed;
     top:70px;
@@ -13,6 +11,7 @@
     list-style-type:none;
 }
 
+/*Contant*/
 .body {
     position:absolute;
     top:50px;
@@ -24,6 +23,9 @@
     bottom:0px;
 }
 
+.content {
+    position: relative;
+}
 
 /*Gallery*/
 
