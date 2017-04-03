@@ -9868,10 +9868,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ditlev\\documents\\visual studio 2017\\Projects\\CoreInternetDistj14\\CoreInternetDistj14\\CoreInternetDistj14.csproj",
+      "projectUniqueName": "C:\\Users\\Ditlev\\Documents\\github\\XI-IT1\\CoreInternetDistj14\\CoreInternetDistj14.csproj",
       "projectName": "CoreInternetDistj14",
-      "projectPath": "C:\\Users\\Ditlev\\documents\\visual studio 2017\\Projects\\CoreInternetDistj14\\CoreInternetDistj14\\CoreInternetDistj14.csproj",
-      "outputPath": "C:\\Users\\Ditlev\\documents\\visual studio 2017\\Projects\\CoreInternetDistj14\\CoreInternetDistj14\\obj\\",
+      "projectPath": "C:\\Users\\Ditlev\\Documents\\github\\XI-IT1\\CoreInternetDistj14\\CoreInternetDistj14.csproj",
+      "outputPath": "C:\\Users\\Ditlev\\Documents\\github\\XI-IT1\\CoreInternetDistj14\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

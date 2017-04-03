@@ -21,17 +21,29 @@
     @Html.Raw(JavaScriptSnippet.FullScript)
 </head>
 <body>
-   
-    <div>
-        @RenderBody()
-        <hr />
+
+    <div class="content">
+        <div class="nav">
+            <ul class="nav-ul">
+                <li>@Html.ActionLink("Sign In", "Index") </li>
+                <li>@Html.ActionLink("Sign Up", "SignUp") </li>
+                <li>@Html.ActionLink("Gallery", "Gallery")</li>
+                <li>@Html.ActionLink("About Me", "AboutMe")</li>
+            </ul>
+        </div>
+
+        <div class="body">
+            @RenderBody()
+        </div>
+        @*<footer class="footer">
+            <div class="container">
+                <p>&copy; 2017 - CoreInternetDistj14</p>
+            </div>
+        </footer>*@
     </div>
 
-    <footer class="footer">
-        <div class="container">
-            <p>&copy; 2017 - CoreInternetDistj14</p>
-        </div>
-    </footer>
+
+
     <environment names="Development">
         <script src="~/lib/jquery/dist/jquery.js"></script>
         <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>

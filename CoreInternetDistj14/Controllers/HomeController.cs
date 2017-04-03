@@ -23,10 +23,8 @@ namespace CoreInternetDistj14.Controllers
             return View();
         }
 
-        public IActionResult Contact()
+        public IActionResult Gallery()
         {
-            ViewData["Message"] = "Your contact page.";
-
             return View();
         }
 
